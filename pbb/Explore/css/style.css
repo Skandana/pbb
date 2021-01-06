@@ -1,0 +1,38 @@
+.wrapper {
+    border-radius: 10px;
+    background-color: #e8f9e9;  
+	padding: 15px;
+    width: 250px;
+}
+
+.first h3, .second h3 {
+    font-size: 23px;
+    font-family: 'Roboto', sans-serif;
+    color: #00303f
+}
+
+.first ul {
+   list-style-type: none;
+   padding-left: 0;
+   font-family: 'Roboto', sans-serif;
+   font-size: 15px;
+   color: #00303f
+}
+
+.first ul li {
+    text-align: -webkit-match-parent;
+    
+}
+
+.second p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: #00303f
+}
+
+.inside_second a {
+    text-decoration: none;
+    color: #0779e4;
+}
+
+
